@@ -1,0 +1,37 @@
+aiofiles==24.1.0
+annotated-types @ file:///work/perseverance-python-buildout/croot/annotated-types_1728386958747/work
+anyio @ file:///io/perseverance-python-buildout/croot/anyio_1731700736723/work
+argon2-cffi @ file:///opt/conda/conda-bld/argon2-cffi_1645000214183/work
+argon2-cffi-bindings @ file:///croot/argon2-cffi-bindings_1736182440035/work
+bcrypt==4.0.1
+cffi @ file:///croot/cffi_1736182485317/work
+click @ file:///work/perseverance-python-buildout/croot/click_1728387069202/work
+cryptography @ file:///croot/cryptography_1740577825284/work
+ecdsa==0.19.0
+fastapi @ file:///io/buildout/croot/fastapi_1735845387481/work
+greenlet @ file:///croot/greenlet_1733860072744/work
+h11 @ file:///work/perseverance-python-buildout/croot/h11_1728386593025/work
+idna @ file:///work/perseverance-python-buildout/croot/idna_1728385935861/work
+iniconfig @ file:///home/linux1/recipes/ci/iniconfig_1610983019677/work
+Jinja2==3.1.5
+jose==1.0.0
+MarkupSafe==3.0.2
+packaging @ file:///croot/packaging_1734472117206/work
+passlib==1.7.4
+pluggy @ file:///croot/pluggy_1733169602837/work
+pyasn1==0.4.8
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pydantic @ file:///croot/pydantic_1734736067156/work
+pydantic_core @ file:///croot/pydantic-core_1734726052986/work
+pytest @ file:///croot/pytest_1738938843180/work
+python-jose==3.4.0
+python-multipart==0.0.20
+rsa==4.9
+setuptools==75.8.0
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+sniffio @ file:///work/perseverance-python-buildout/croot/sniffio_1728386342155/work
+SQLAlchemy @ file:///croot/sqlalchemy_1736565039440/work
+starlette @ file:///io/perseverance-python-buildout/croot/starlette-recipe_1731704598518/work
+typing_extensions @ file:///croot/typing_extensions_1734714854207/work
+uvicorn @ file:///croot/uvicorn-split_1732660726596/work
+wheel==0.45.1
